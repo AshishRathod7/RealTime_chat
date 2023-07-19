@@ -1,5 +1,5 @@
-# REAL-TIME-CHAT
-# Real-Time Chat App
+# REALTIME-CHAT
+# RealTime_Chat App
 
 This is a real-time chat application built using [Socket.IO](https://socket.io/) and [Node.js](https://nodejs.org/). It allows users to create chat rooms and communicate with each other in real-time.
 
