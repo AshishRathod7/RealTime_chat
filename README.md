@@ -19,13 +19,13 @@ To run this application locally, follow these steps:
 1. Clone the repository:
 
    bash
-   git clone https:https://github.com/PavanTamadana/REAL-TIME-CHAT.git
-2. Open backend folder and run it:
+   git clone https:https://github.com/AshishRathod7/REALTIME-CHAT.git
+2. Open the backend folder and run it:
 
    bash
    npm start
 
-4. Open frontend folder and run it:
+4. Open the frontend folder and run it:
 
    ```bash
    cd frontend
